@@ -33,8 +33,8 @@ export function App() {
   }
 
   return (
-    <div className="min-h-screen bg-zinc-900 flex items-center justify-center">
-      <div className="w-[40rem] bg-zinc-800 rounded-md overflow-hidden pb-6">
+    <div className="min-h-screen bg-zinc-900 flex items-center justify-center px-4">
+      <div className="w-[40rem] bg-zinc-800 rounded-md overflow-hidden pb-6 ">
         <Header/>
 
         <main>
